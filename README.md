@@ -16,6 +16,6 @@ Built an interactive web application using the Google Maps API with React and Ta
 - [Google Maps API](https://www.npmjs.com/package/@react-google-maps/api)
 
 ## License
-Code released under the [MIT License](https://github.com/Tushar-Indurjeeth/Maps/blob/1cc9b7a91be305f798fe26e32a5b1cc0bb53e247/LICENSE).
+Code released under the [MIT License](https://github.com/Tushar-Indurjeeth/Maps/blob/7a5784c9b68405ddc4b291de26f1232a00c67310/README.md).
 
 
