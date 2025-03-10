@@ -2,7 +2,7 @@
 Built an interactive web application using the Google Maps API with React and Tailwindcss.
 
 ## Live Demo:
-[https://maps.tusharin.com/](https://maps.tusharin.com/)
+[https://maps.tushar.co.za/](https://maps.tushar.co.za/)
 
 ## Features:
 - An interactive Google map.
